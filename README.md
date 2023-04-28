@@ -1,5 +1,7 @@
-<h1 align="center">Hello world ! I'm Lucas Klemke</h1>
-<h3 align="center">A software engineering students from Brazil !</h3>
+<h1 align="center">Hello, world ! ! I'm Lucas</h1>
+<h3 align="center">A software engineering student from Brazil !</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasklemke&label=Profile%20views&color=0e75b6&style=flat" alt="lucasklemke" /> </p>
 
 - 🔭 I’m currently working on **improve my experiencie through learning.**
 
@@ -13,7 +15,7 @@
 
 - 📫 How to reach me **lucas.klemke@outlook.com.br**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/lucas-klemke-28b2a4259/](https://www.linkedin.com/in/lucas-klemke-28b2a4259/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/lucas-klemke-28b2a4259](https://www.linkedin.com/in/lucas-klemke-28b2a4259)
 
 - ⚡ Fun fact **I enjoy hard work and I'm always up to challenges !**
 
