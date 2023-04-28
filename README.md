@@ -1,4 +1,4 @@
-<h1 align="center">Hello, world ! ! I'm Lucas</h1>
+<h1 align="center">Hello, world ! I'm Lucas</h1>
 <h3 align="center">A software engineering student from Brazil !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasklemke&label=Profile%20views&color=0e75b6&style=flat" alt="lucasklemke" /> </p>
