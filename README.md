@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍💻 Web developer | 🖥️ MacOS | 📖 College Student (3º period)  <br>
-
+<a href="https://wakatime.com/@4930c768-7e42-44d4-9835-a34225650b88"><img src="https://wakatime.com/badge/user/4930c768-7e42-44d4-9835-a34225650b88.svg" alt="Total time coded since Jan 1 2024" /></a>
 
 
 ## 🌐 Socials:
