@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👨‍💻 Web developer | 🖥️ MacOS | 📖 College Student (3º period)  <br>
 
 
