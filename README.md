@@ -1,5 +1,5 @@
 # About Me:
-👨‍💻 Web developer | 🖥️ MacOS | 📖 College Student (3º period)  <br>
+👨‍💻 Web developer | 🖥️ MacOS  <br>
 
 
 
