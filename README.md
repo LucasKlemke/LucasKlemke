@@ -1,5 +1,5 @@
 # About Me:
-👨‍💻 Web developer | 🖥️ MacOS  <br>
+👨‍💻 Web developer <br>
 
 
 
