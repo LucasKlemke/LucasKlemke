@@ -1,4 +1,4 @@
-👨‍💻 Web developer <br>
+👨‍💻 Fullstack Web developer <br>
 
 
 
