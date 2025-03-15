@@ -1,4 +1,4 @@
-👨‍💻 Fullstack Web developer <br>
+Following Indie Hacking's Path <br>
 
 
 
