@@ -1,4 +1,4 @@
-Following Indie Hacking's Path <br>
+Indie hacking enthusiast <br>
 
 
 
