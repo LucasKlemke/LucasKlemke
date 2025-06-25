@@ -1,18 +1,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-klemke-28b2a4259/) 
 [![wakatime](https://wakatime.com/badge/user/4930c768-7e42-44d4-9835-a34225650b88.svg)](https://wakatime.com/@4930c768-7e42-44d4-9835-a34225650b88)
 
-## 🏆 Achievements
+## Achievements
 
-- 🥇 1st Place – Codecon Universe Hackathon 2025 (AI Solution)
-- 🚀 Successfully built and sold my first SaaS product
-- 💼 3 years of professional experience in software development
+- 1st Place – Codecon Universe Hackathon 2025 (AI Solution)
+- Successfully built and sold my first SaaS product
+- 3 years of experience in software development
 
-## 💻 Tech Stack & Knowledge
+## Tech Stack & Knowledge
 
-- ⚡ Advanced knowledge in **Next.js**, **TailwindCSS**, **Prisma**
-- 🧠 Experience with **AI integration** (LLMs, RAG, OpenAI)
-- 🛢️ Proficient in **SQL** and relational database design
-- 🐍 Solid foundation in **Python** for backend and automation
+- Advanced knowledge in **Next.js**, **TailwindCSS**, **Prisma**
+- Experience with **AI integration** (LLMs, RAG, OpenAI)
+- Proficient in **SQL** and relational database design
+- Solid foundation in **Python** for backend and automation
 
 <div align="">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
